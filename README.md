@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm ADITYA TAMHANE </h2>
-<h5 align="left">Worked as a Digital Insights & Big Data Analytics Intern at Hitachi Vantara.
+<p align="left">Worked as a Digital Insights & Big Data Analytics Intern at Hitachi Vantara.
 
 I am an Information Technology graduate from NMIET, Pune.
 
@@ -7,7 +7,7 @@ Technology excites me and I am always in awe of the change it drives in the worl
 
 Outside of tech, I'm an avid Table Tennis enthusiast and a drawing artist.
 
-I am excited to bring my fresh perspective and innovative ideas to a dynamic company that values growth and embraces change.</h5>
+I am excited to bring my fresh perspective and innovative ideas to a dynamic company that values growth and embraces change.</p>
 
 
 <img align="right" alt="" width="210" src="https://ameyacloud.in/wp-content/uploads/2022/04/Course-Overview.gif"></img>
