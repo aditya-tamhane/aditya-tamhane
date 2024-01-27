@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAF7FEJotPY/6gKUWKAiAV7qQhOJIvTyCw/edit?utm_content=DAF7FEJotPY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://aditya-tamhane.github.io/personal-site/)
+[![MasterHead]([https://www.canva.com/design/DAF7FEJotPY/6gKUWKAiAV7qQhOJIvTyCw/edit?utm_content=DAF7FEJotPY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF7FEJotPY/6gKUWKAiAV7qQhOJIvTyCw/edit?utm_content=DAF7FEJotPY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))](https://aditya-tamhane.github.io/personal-site/)
 <h1 align="center">Hi 👋, I'm Aditya Tamhane</h1>
 <h3 align="center">I am an Information Technology graduate from Pune.</h3>
 <img align="right" alt="" width="300" src="https://ameyacloud.in/wp-content/uploads/2022/04/Course-Overview.gif"
