@@ -10,7 +10,7 @@ Outside of tech, I'm an avid Table Tennis enthusiast and a drawing artist.
 I am excited to bring my fresh perspective and innovative ideas to a dynamic company that values growth and embraces change.</p>
 
 
-<img align="right" alt="" width="210" src="https://ameyacloud.in/wp-content/uploads/2022/04/Course-Overview.gif"></img>
+<img align="right" alt="" width="230" src="https://ameyacloud.in/wp-content/uploads/2022/04/Course-Overview.gif"></img>
 
 
 - 👨‍💻 Personal site [aditam](https://aditya-tamhane.github.io/personal-site/)
