@@ -1,12 +1,8 @@
-[![MasterHead](https://www.canva.com/design/DAF7FEJotPY/iDN_zF74kyETL7mwxLnADQ/view?utm_content=DAF7FEJotPY&utm_campaign=designshare&utm_medium=link&utm_source=editor)](https://aditya-tamhane.github.io/personal-site/)
 <h1 align="center">Hi 👋, I'm Aditya Tamhane</h1>
 <h3 align="center">I am an Information Technology graduate from Pune.</h3>
 <img align="right" alt="" width="300" src="https://ameyacloud.in/wp-content/uploads/2022/04/Course-Overview.gif"
-
 - 👨‍💻 All of my projects are available at [https://aditya-tamhane.github.io/personal-site/](https://aditya-tamhane.github.io/personal-site/)
-
 - 📫 How to reach me **adityatamhane12@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditya-tamhane-27b85021b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-tamhane-27b85021b" height="30" width="40" /></a>
