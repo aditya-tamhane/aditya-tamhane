@@ -3,13 +3,15 @@
 
 I am an Information Technology graduate from NMIET, Pune.
 
-<img align="right" alt="" width="210" src="https://ameyacloud.in/wp-content/uploads/2022/04/Course-Overview.gif"></img>
-
 Technology excites me and I am always in awe of the change it drives in the world. Certain skills that I have worked with include Data Structures and Algorithms (C++), Web Development (NodeJs, MySQL) & Data Analytics (with Tableau). And what I might lack in skills I make up for with my determination to learn.
 
 Outside of tech, I'm an avid Table Tennis enthusiast and a drawing artist.
 
 I am excited to bring my fresh perspective and innovative ideas to a dynamic company that values growth and embraces change.</h3>
+
+
+<img align="right" alt="" width="210" src="https://ameyacloud.in/wp-content/uploads/2022/04/Course-Overview.gif"></img>
+
 
 - 👨‍💻 Personal site [aditam](https://aditya-tamhane.github.io/personal-site/)
 - 📫 Mail me at **adityatamhane12@gmail.com**
