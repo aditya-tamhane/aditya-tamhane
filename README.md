@@ -8,7 +8,7 @@ Technology excites me and I am always in awe of the change it drives in the worl
 Outside of tech, I'm an avid Table Tennis enthusiast and a drawing artist.
 
 I am excited to bring my fresh perspective and innovative ideas to a dynamic company that values growth and embraces change.</h3>
-<img align="right" alt="" width="192" src="https://ameyacloud.in/wp-content/uploads/2022/04/Course-Overview.gif"
+<img align="right" alt="" width="192" src="https://ameyacloud.in/wp-content/uploads/2022/04/Course-Overview.gif"></img>
 - 👨‍💻 Personal site [aditam](https://aditya-tamhane.github.io/personal-site/)
 - 📫 Mail me at **adityatamhane12@gmail.com**
 
