@@ -1,19 +1,17 @@
 <h2 align="center">Hi 👋, I'm ADITYA TAMHANE </h2>
-<p align="left">Worked as a Digital Insights & Big Data Analytics Intern at Hitachi Vantara.
+<p align="left">Fresh-faced IT grad (NMIET, Pune) with a Google Business Profile & 360° Virtual Tour obsession (courtesy of ADITYA 360°, my startup!). 
 
-I am an Information Technology graduate from NMIET, Pune.
-
-Technology excites me and I am always in awe of the change it drives in the world. Certain skills that I have worked with include Data Structures and Algorithms (C++), Web Development (NodeJs, MySQL) & Data Analytics (with Tableau). And what I might lack in skills I make up for with my determination to learn.
-
-Outside of tech, I'm an avid Table Tennis enthusiast and a drawing artist.
-
-I am excited to bring my fresh perspective and innovative ideas to a dynamic company that values growth and embraces change.</p>
+  I wrangled data with Tableau at Hitachi Vantara & craft clean code in C++, NodeJs, and MySQL.
+  
+  Always learning & eager to bring innovative ideas (and maybe a bit of laughter!) to a growing company. 
+  
+  (+) When I'm not glued to the screen, you can find me...</p>
 
 
 <img align="right" alt="" width="230" src="https://ameyacloud.in/wp-content/uploads/2022/04/Course-Overview.gif"></img>
 
 
-- 👨‍💻 Personal site [aditam](https://aditya-tamhane.github.io/personal-site/)
+- 👨‍💻 Personal site [aditam](https://aditya-tamhane.github.io/aditam/)
 - 📫 Mail me at **adityatamhane12@gmail.com**
 
 <h5 align="left">Languages and Tools:</h5>
