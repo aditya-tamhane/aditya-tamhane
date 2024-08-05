@@ -1,11 +1,11 @@
 <h2 align="center">Hi 👋, I'm ADITYA TAMHANE </h2>
-<p align="left">Fresh-faced IT grad (NMIET, Pune) with a Google Business Profile 
-  & 360° Virtual Tour obsession (courtesy of ADITYA 360°, my startup!).
-  I wrangled data with Tableau at Hitachi Vantara & craft clean code in 
-  C++, NodeJs, and MySQL.
-  Always learning & eager to bring innovative ideas (and maybe a bit of laughter!) 
-  to a growing company. 
-  (+) When I'm not glued to the screen, you can find me...</p>
+<h5 align="left">Fresh-faced IT grad (NMIET, Pune) with a Google Business Profile & 360° Virtual Tour obsession (courtesy of ADITYA 360°, my startup!).</h5>
+
+  <h5 align="left">I wrangled data with Tableau at Hitachi Vantara & craft clean code in C++, NodeJs, and MySQL.</h5>
+  
+  <h5 align="left">Always learning & eager to bring innovative ideas (and maybe a bit of laughter!) to a growing company.</h5> 
+  
+  <h5 align="left">(+) When I'm not glued to the screen, you can find me...</h5>
 
 
 <img align="right" alt="" width="230" src="https://ameyacloud.in/wp-content/uploads/2022/04/Course-Overview.gif"></img>
