@@ -1,10 +1,10 @@
 <h2 align="center">Hi 👋, I'm ADITYA TAMHANE </h2>
-<p align="left">Fresh-faced IT grad (NMIET, Pune) with a Google Business Profile & 360° Virtual Tour obsession (courtesy of ADITYA 360°, my startup!). 
-
-  I wrangled data with Tableau at Hitachi Vantara & craft clean code in C++, NodeJs, and MySQL.
-  
-  Always learning & eager to bring innovative ideas (and maybe a bit of laughter!) to a growing company. 
-  
+<p align="left">Fresh-faced IT grad (NMIET, Pune) with a Google Business Profile 
+  & 360° Virtual Tour obsession (courtesy of ADITYA 360°, my startup!).
+  I wrangled data with Tableau at Hitachi Vantara & craft clean code in 
+  C++, NodeJs, and MySQL.
+  Always learning & eager to bring innovative ideas (and maybe a bit of laughter!) 
+  to a growing company. 
   (+) When I'm not glued to the screen, you can find me...</p>
 
 
